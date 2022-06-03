@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1018592050217",
+    "project_id": "postest7-yudiaulia-084",
+    "storage_bucket": "postest7-yudiaulia-084.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018592050217:android:b25658abc47b12e32f7038",
+        "android_client_info": {
+          "package_name": "com.example.postest7_1915016084_yudiaulia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1018592050217-np3su3rg2hnv5npf71ejb3b8meameu68.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCw5D0Exy36Jn_1k8G_WFj2OyqXoXU_BMU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1018592050217-np3su3rg2hnv5npf71ejb3b8meameu68.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
